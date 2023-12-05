@@ -5,7 +5,6 @@ Language : python.
 
 modules used : scikit-learn,pandas,numpy
 
-Model : Decision Tree
 
 #Project Members
 
