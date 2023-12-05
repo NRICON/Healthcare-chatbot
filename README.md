@@ -9,8 +9,8 @@ Model : Decision Tree
 
 #Project Members
 
-Sangamesh R M
+* Sangamesh R M
 
-Tejas N P
+* Tejas N P
 
-Nitin Reddy D
+* Nitin Reddy D
